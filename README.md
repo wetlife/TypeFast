@@ -22,10 +22,10 @@ You can then use `npm start` to start the development server at `http://localhos
 ## Contributing
 
 If you would like to contribute to the project, feel free to fork this project and open a pull request.
-Pleas make sure that:
+Please make sure that:
 
 - Your code is properly formatted, this project works with Prettier
-- Your pull requests targets our develop branch
+- Your pull requests target our develop branch
 
 ## Authors
 
